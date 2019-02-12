@@ -1,0 +1,24 @@
+Enable Pulseaudio as user by link
+Install:
+	tigervnc
+	accountsservice
+	flameshot
+	udiskie
+	# yay (by copying)
+	fcitx-configtool
+	fcitx-im
+	netease-cloud-music
+	v2ray
+	axel
+	telegram-desktop
+	ttf-freefont
+	nginx
+Copy MOD folder(with makefile and .vscode/ folder)
+Write vscode package list
+Install themes
+Copy lemon binary file and CCR_Plus judger
+Configure proxy(by v2ray)
+Configure web service(by nginx)
+Configure flameshot
+Configure telegram fcitx fix
+Configure VSCode

@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A.gen.py	../A.gen.py	1;"	kind:file	line:1
+B.gen.py	../B.gen.py	1;"	kind:file	line:1
+C.gen.py	../C.gen.py	1;"	kind:file	line:1
+G.gen.py	../G.gen.py	1;"	kind:file	line:1
+a	../G.gen.py	/^    a = random.randint(1,n)$/;"	kind:variable	line:14
+b	../G.gen.py	/^    b = random.randint(1,n)$/;"	kind:variable	line:15
+f	../A.gen.py	/^f = open('A.in', 'w')$/;"	kind:variable	line:4
+f	../B.gen.py	/^f = open('B.in', 'w')$/;"	kind:variable	line:4
+f	../C.gen.py	/^f = open('C.in', 'w')$/;"	kind:variable	line:4
+f	../G.gen.py	/^f = open('G.in', 'w')$/;"	kind:variable	line:4
+length	../A.gen.py	/^length = 8$/;"	kind:variable	line:8
+m	../C.gen.py	/^m = random.randint(1,min([20,n]))$/;"	kind:variable	line:7
+m	../G.gen.py	/^        m = m + 1$/;"	kind:variable	line:17
+m	../G.gen.py	/^    m = m - 1$/;"	kind:variable	line:13
+m	../G.gen.py	/^m = random.randint(n,10)$/;"	kind:variable	line:9
+n	../B.gen.py	/^    n = random.randint(1,100)$/;"	kind:variable	line:11
+n	../C.gen.py	/^    n = n - 1$/;"	kind:variable	line:11
+n	../C.gen.py	/^n = random.randint(1,80)$/;"	kind:variable	line:6
+n	../G.gen.py	/^n = random.randint(1,5)$/;"	kind:variable	line:8
+numbers	../A.gen.py	/^numbers = '1234567890'$/;"	kind:variable	line:6
+random	../A.gen.py	/^import random$/;"	kind:namespace	line:2
+random	../B.gen.py	/^import random$/;"	kind:namespace	line:2
+random	../C.gen.py	/^import random$/;"	kind:namespace	line:2
+random	../G.gen.py	/^import random$/;"	kind:namespace	line:2
+string	../A.gen.py	/^string = "".join(random.choices(list('1234567890'), k=length))$/;"	kind:variable	line:10
+t	../B.gen.py	/^t = 10$/;"	kind:variable	line:7

@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Monaco', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 18,
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.wordWrap": "wordWrapColumn"
+}

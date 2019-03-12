@@ -1,0 +1,5 @@
+patch:
+    "menu/page_size": 9
+    'punctuator/import_preset': alternative
+    schema_list:
+        - schema: terra_pinyin

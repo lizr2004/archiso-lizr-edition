@@ -4,7 +4,6 @@ arch-install-scripts
 archlinuxcn-keyring
 axel
 b43-fwcutter
-base-devel
 bat
 broadcom-wl
 btrfs-progs
@@ -30,7 +29,6 @@ exfat-utils
 f2fs-tools
 fcitx
 fcitx-configtool
-fcitx-im
 fcitx-im
 fcitx-rime
 fcitx-skin-material

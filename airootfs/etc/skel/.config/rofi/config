@@ -1,0 +1,6 @@
+rofi.modi: window,windowcd,run,ssh,combi,keys,drun
+rofi.font: monaco 18
+rofi.width: 70
+rofi.show-icons: True
+rofi.theme: /usr/share/rofi/themes/Monokai.rasi
+rofi.combi-modi: window,run,drun,ssh

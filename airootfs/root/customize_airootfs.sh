@@ -29,10 +29,6 @@ sed -i 's/#\(HandleLidSwitch=\)suspend/\1ignore/' /etc/systemd/logind.conf
 
 systemctl enable pacman-init.service choose-mirror.service
 
-mkdir /etc/skel/.config/mpd
-mkdir /etc/skel/.mpd
-cp /usr/share/doc/mpd/mpdconf.example /etc/skel/.config/mpd/mpd.conf
-
 sed -i '110 d' /etc/pacman.conf
 sed -i '110 d' /etc/pacman.conf
 sed -i '110 d' /etc/pacman.conf

@@ -15,8 +15,6 @@ cp -aT /etc/skel/ /root/
 chmod 700 /root
 
 ! id user && useradd -m -p "" -g users -G "adm,audio,floppy,log,network,rfkill,scanner,storage,optical,power,wheel" -s /usr/bin/zsh user
-#echo -e "passwd\npasswd" | passwd user
-passwd user -d
 
 sed -i 's/#\(PermitRootLogin \).\+/\1yes/' /etc/ssh/sshd_config
 sed -i "s/#Server/Server/g" /etc/pacman.d/mirrorlist

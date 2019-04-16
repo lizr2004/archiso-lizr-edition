@@ -1,5 +1,7 @@
 accountsservice
 adobe-source-han-sans-cn-fonts
+android-tools
+android-udev
 arch-install-scripts
 archlinuxcn-keyring
 axel
@@ -11,6 +13,7 @@ ccrplus
 chromium
 clang
 clonezilla
+code
 compton
 crda
 curl
@@ -23,6 +26,7 @@ dmraid
 dnsmasq
 dnsutils
 dosfstools
+electron-netease-cloud-music
 elinks
 ethtool
 exfat-utils
@@ -38,6 +42,7 @@ flameshot
 fsarchiver
 gcc
 gdb
+geogebra
 git
 gnu-netcat
 gpm
@@ -57,6 +62,7 @@ lightdm-gtk-greeter
 linux-atm
 lsscsi
 make
+materia-gtk-theme
 mc
 mdbook
 mpv
@@ -65,6 +71,7 @@ ndisc6
 nfs-utils
 nilfs-utils
 nmap
+notification-daemon
 ntfs-3g
 ntp
 openconnect
@@ -74,6 +81,7 @@ openvpn
 partclone
 parted
 partimage
+polkit-kde-agent
 ppp
 pptpclient
 project-lemon
@@ -83,6 +91,7 @@ pulseaudio-alsa
 pulsemixer
 python3
 python-pip
+qt5ct
 qterminal
 refind-efi
 rofi
@@ -103,7 +112,6 @@ udiskie
 usb_modeswitch
 vim-airline
 vim-fcitx
-code
 vpnc
 wget
 wireless-regdb
@@ -117,4 +125,3 @@ xf86-video-nouveau
 xl2tpd
 xorg
 ydcv
-polkit-kde-agent

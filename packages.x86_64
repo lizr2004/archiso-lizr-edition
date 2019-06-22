@@ -79,7 +79,6 @@ openvpn
 partclone
 parted
 partimage
-polkit-kde-agent
 ppp
 pptpclient
 ptpython
@@ -124,3 +123,4 @@ xorg-server
 xorg-xrandr
 xorg-xmodmap
 xorg-xprop
+pcmanfm

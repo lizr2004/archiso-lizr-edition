@@ -180,6 +180,5 @@ bindsym Print exec flameshot gui -p ~/documents/screenshots/
 
 exec --no-startup-id flameshot & 
 exec --no-startup-id udiskie -t &
-exec --no-startup-id fcitx &
+exec --no-startup-id fcitx5 &
 exec --no-startup-id compton &
-exec --no-startup-id /usr/lib/polkit-kde-authentication-agent-1 &

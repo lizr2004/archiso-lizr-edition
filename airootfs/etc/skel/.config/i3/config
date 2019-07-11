@@ -173,10 +173,10 @@ bar {
 
 # make a screen shot
 # default directroy is ~/documents/screenshot
-bindsym $mod+p exec scrot -e 'mv $f ~/documents/screenshots/'
+bindsym $mod+p exec scrot -e 'mv $f ~'
 
 # a better screenshot recorder flameshot
-bindsym Print exec flameshot gui -p ~/documents/screenshots/
+bindsym Print exec flameshot gui -p ~
 
 exec --no-startup-id flameshot & 
 exec --no-startup-id udiskie -t &

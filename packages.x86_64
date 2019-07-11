@@ -12,7 +12,6 @@ ccrplus
 chromium
 clang
 clonezilla
-code
 compton
 crda
 curl
@@ -53,7 +52,6 @@ hdparm
 i3
 ipw2100-fw
 ipw2200-fw
-irssi
 lftp
 lightdm
 lightdm-gtk-greeter
@@ -68,7 +66,6 @@ mtools
 ndisc6
 nfs-utils
 nilfs-utils
-nmap
 notification-daemon
 ntfs-3g
 ntp
@@ -124,3 +121,4 @@ xorg-xrandr
 xorg-xmodmap
 xorg-xprop
 pcmanfm
+htop
